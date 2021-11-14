@@ -6,7 +6,7 @@ Framework used: React JS
 Database used: Google firebase cloud firestore
 User authentication used: Sign in with Google
 Encryption and Decryption APIs: CryptoJS
-Icons used: Material-ui
+Icons used: Material-ui and Dicebear Avatars
 Emoticon and input API: react-input-emoji
 Hosted using: Firebase Hosting
 
