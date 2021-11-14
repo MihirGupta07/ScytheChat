@@ -2,13 +2,13 @@
 ## Web based group chat app which lets you create chat groups and invite people using invite codes. Your messages are saved in cloud firestore secured by end-to-end encryption
 Try it at: https://scythechat-70f85.web.app/
 
-Framework used: React JS
-Database used: Google firebase cloud firestore
-User authentication used: Sign in with Google
-Encryption and Decryption APIs: CryptoJS
-Icons used: Material-ui and Dicebear Avatars
-Emoticon and input API: react-input-emoji
-Hosted using: Firebase Hosting
+- Framework used: React JS
+- Database used: Google firebase cloud firestore
+- User authentication used: Sign in with Google
+- Encryption and Decryption APIs: CryptoJS
+- Icons used: Material-ui and Dicebear Avatars
+- Emoticon and input API: react-input-emoji
+- Hosted using: Firebase Hosting
 
 
 ###### Some Screenshots:
