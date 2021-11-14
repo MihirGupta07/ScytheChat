@@ -45,17 +45,40 @@
     border-radius: 20px;  
     
 }
-.sidebar__searchContainer > input
+.sidebar__searchContainer > form 
 {
     display: flex;
+    flex: 1;
     align-items: center;
-    background-color:rgba(0, 0, 0, 0.0);
+    background-color:rgba(0, 0, 0,0);
     border: none;
-    width: 100%;
+    width: 90%;
     height: 30px;
     outline: none;
     color: white;
+}
+.sidebar__searchContainer > form > input
+{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    background-color:rgba(0, 0, 0,0);
+    border: none;
+    width: 90%;
+    height: 30px;
+    outline: none;
+    color: white;
+    padding-left: 10px;
       
+}
+.sidebar__searchContainer > form >button
+{
+   
+      /* display: none; */
+      background-color: rgba(0, 0, 0, 0.0);
+      border: none;
+      padding: 10px;
+    color: gray;
 }
 .sidebar__searchContainer > .MuiSvgIcon-root
 {
