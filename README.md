@@ -9,6 +9,7 @@ Try it at: https://scythechat-70f85.web.app/
 - Icons used: Material-ui and Dicebear Avatars
 - Emoticon and input API: react-input-emoji
 - Hosted using: Firebase Hosting
+- 
 
 
 ###### Some Screenshots:
